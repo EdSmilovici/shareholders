@@ -1,3 +1,7 @@
 .app-nav li ul {
     background-color: #3f3f3f;
 }
+
+.markdown-section tr:nth-child(2n) {
+    background-color: transparent;
+}
