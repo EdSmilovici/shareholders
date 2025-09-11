@@ -12,7 +12,7 @@ Next week we play against some dude named LLIFS, who currently has 2 played in a
 
 ![week1trade](../images/week2trade.png ":class=image")
 
-Devin swore when he threw this into a trade analyzer it said it was in his favor but the leagues reaction is he got fleesed, for an uneven numbered trade at leats it was large and not a 2 for 1, either way it'll be fun to watch these players this week to call one of these two managers dumb for making such a bad trade.
+Devin swore when he threw this into a trade analyzer it said it was in his favor but the league's reaction is he got fleeced, for an uneven numbered trade at leats it was large and not a 2 for 1, either way it'll be fun to watch these players this week to call one of these two managers dumb for making such a bad trade.
 
 ## Rosters
 
