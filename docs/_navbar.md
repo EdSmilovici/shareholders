@@ -1,2 +1,3 @@
 -   Weekly Reports
     -   [Current Week](/weekly-reports/)
+    -   [Week 1](/weekly-reports/week1)
