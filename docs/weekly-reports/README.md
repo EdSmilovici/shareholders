@@ -1,42 +1,56 @@
-# Week 1
+# Week 2
 
-Week 1 we're facing off against Tean Julienchicoine. Insider info sounds like we got really unlucky with this matchup, historically Julian forgets to set his line up and doens't maintain his team so this might be the week he is strongest. At the time of writing we are projected 10 points higher than Julian.
+## Week 1 Recap
+
+### The Bust Gazette
+
+Juicy week 1 report for you all. Let’s be honest, we shouldn’t have won week 1, we scraped by beating Julien by 5 points carried by Bijan, Egbuka and Butker, this was a good start to the season. The birds (:horse: :poop: :plate_with_cutlery:) tried to screw us on defence but the rest of the team pulled together to carry them across the finish line. Shout out to AJ Brown his WR1 who scored a whopping fat 1.8 points. We got lucky folks.
+Speaking about luck, we are lucky that our shareholder Matt Helmer spoke up about Dak Prescott being an overall garbage pickup. Week 1 shows this QUARTERBACK that scored 7.8 points, good thing he was on the bench, great management Ry! To put this into context, I’d rather have a kicker in our QB spot than let this man have a chance. Happy he is on the bench, but would be even happier see him infiltrate someone else’s team and destroy their passion to play the game.
+Next week we play against some dude named LLIFS, who currently has 2 played in a Questionable state. Let’s pray that his players bust harder than the boys in the gondoluzzy.
 
 ## Rosters
 
-| **Shareholders**     | **Position** |    **Julienchicoine** |
-| :------------------- | :----------: | --------------------: |
-| J. Daniels - WAS     |    **QB**    |        J. Allen - BUF |
-| B. Robinson - ATL    |    **RB**    |      S. Barkley - PHI |
-| T. Tracy - NYG       |    **RB**    |   D. Montgomery - DET |
-| D. London - ATL      |    **WR**    |       T. Hunter - JAX |
-| D. Metcalf - PIT     |    **WR**    |        A. Brown - PHI |
-| T. McBride - ARI     |    **TE**    |        D. Njoku - CLE |
-| T. Pollard RB - TEN  |   **WRT**    |     M. Harrison - ARI |
-| R. Pearsall WR - SF  |   **WRT**    |   J. Dobbins RB - DEN |
-| H. Butker K - KC     |    **K**     |       T. Loop K - BAL |
-| PHI                  |   **DEF**    |                   PIT |
-| D. Prescott QB - DAL |  **BENCH**   |      B. Purdy QB - SF |
-| B. Allen RB - NYJ    |  **BENCH**   |     R. Davis RB - BUF |
-| R. Harvey RB - DEN   |  **BENCH**   |    J. Palmer WR - BUF |
-| E. Egbuka WR - TB    |  **BENCH**   |    R. Shaheed WR - NO |
-| D. Thornton WR - LV  |  **BENCH**   |      M. Mims WR - DEN |
-| T. Kraft TE - GB     |  **BENCH**   | T. Hockenson TE - MIN |
+| **Shareholders**     | **Position** |             **llifs099** |
+| :------------------- | :----------: | -----------------------: |
+| J. Daniels - WAS     |    **QB**    |          D. Maye QB - NE |
+| B. Robinson - ATL    |    **RB**    |        J. Jacobs RB - GB |
+| T. Pollard RB - TEN  |    **RB**    |   Z. Charbonnet RB - SEA |
+| R. Pearsall WR - SF  |    **WR**    |         C. Lamb WR - DAL |
+| D. Metcalf - PIT     |    **WR**    | J. Smith-Njigba WR - SEA |
+| T. McBride - ARI     |    **TE**    |        B. Bowers TE - LV |
+| E. Egbuka WR - TB    |   **WRT**    |         C. Olave WR - NO |
+| D. London - ATL      |   **WRT**    |     T. McMillan WR - CAR |
+| H. Butker K - KC     |    **K**     |       C. Boswell K - PIT |
+| PHI                  |   **DEF**    |                       SF |
+| D. Prescott QB - DAL |  **BENCH**   |        B. Tuten RB - JAX |
+| N. Chubb RB - HOU    |  **BENCH**   |        J. Mixon RB - HOU |
+| R. Harvey RB - DEN   |  **BENCH**   |      B. Robinson RB - SF |
+| T. Tracy - NYG       |  **BENCH**   |       1. Pacheco RB - KC |
+| K. Allen WR - LAC    |  **BENCH**   |          R. Rice WR - KC |
+| T. Kraft TE - GB     |  **BENCH**   |        M. Golden WR - GB |
+
+## Pick ups and drops
+
+:heavy_minus_sign: D. Thornton WR - LV
+:heavy_minus_sign: B. Allen RB - NYJ
+:heavy_plus_sign: Nick Chubb RB - HOU
+:heavy_plus_sign: Keenan Allen WR - LV
 
 ## Injury report
 
-None :partying_face:
+D. London (shoulder) was limited at Wednesday's practice, Tori McElhaney of the Falcons' official site reports. Surely he's fine simply resting a little but we have two decent subs in Tyrone Tracy and Keenen Allen waiting on the bench to take his place if his questionable mark gets upgraded to out, so althought the injury report isn't clean, there is nothing to worry about.
 
 ## Hate and Love Watch
 
 ### Love
 
-Most of our players play Sunday at 1:00 PM so that time will determine our week.
+Prime time baby, this week we've got important players playing in all three prime time games, Thursday, Sunday nights 8:00 PM and Monday at 7pm.
 
--   **Bijan Robinson**: Our first round pick a fresh all star Bijon is worth cheering for at 1pm vs Tampa Bay.
--   **Harrison Butker**: Picked in the 16th round he's who to cheer for on Friday, the game will be streamed for free on YouTube. Being the kicker we're hoping for some long ones friday!
+-   **Jayden Daniels**: Our QB plays thursday night, this won't necessarily set the tone of the week as long as he comes close to his projected, i have faith but with the QB we really just have to dodge a really low score, anything near projected will do!
+-   **Bijan Robinson**: Did well week one and we look forward to him cutting through the terrible vikings defence sunday night.
+-   **Emeka Egbuka**: Another Week 1 performer lets hope for plenty of targets and receptions week 2 to hopefully see him get promotted to WR1.
 
 ### Hate
 
--   **Josh Allen**: Julien's Quarterback, we could really use him shitting the bed.
--   **Sequon Barkley**: Picked in the first round he's projected to put up 20 points Thursday night, let's hope the Dalas defence can hold him back from any long runs.
+-   **Josh Jacobs**: Last week our counter cheering didn't really work on Josh Allen, so this week hopefully Josh Jacobs doesn't do well, we're due. As their highest projected player we could really use an underperformace thursday night!
+-   **Jaxon Smith-Njigba**: Sunday 1pm right before Malcolms and Sydney's wedding let's hope he doesn't pop off like week 1, we'll all be spinning terrible towels this blessed sunday.
