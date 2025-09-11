@@ -8,6 +8,12 @@ Juicy week 1 report for you all. Let’s be honest, we shouldn’t have won week
 Speaking about luck, we are lucky that our shareholder Matt Helmer spoke up about Dak Prescott being an overall garbage pickup. Week 1 shows this QUARTERBACK that scored 7.8 points, good thing he was on the bench, great management Ry! To put this into context, I’d rather have a kicker in our QB spot than let this man have a chance. Happy he is on the bench, but would be even happier see him infiltrate someone else’s team and destroy their passion to play the game.
 Next week we play against some dude named LLIFS, who currently has 2 played in a Questionable state. Let’s pray that his players bust harder than the boys in the gondoluzzy.
 
+### League Trades
+
+![week1trade](../images/week2trade.png ":class=image")
+
+Devin swore when he threw this into a trade analyzer it said it was in his favor but the leagues reaction is he got fleesed, for an uneven numbered trade at leats it was large and not a 2 for 1, either way it'll be fun to watch these players this week to call one of these two managers dumb for making such a bad trade.
+
 ## Rosters
 
 | **Shareholders**     | **Position** |             **llifs099** |
@@ -52,5 +58,6 @@ Prime time baby, this week we've got important players playing in all three prim
 
 ### Hate
 
+-   **Mike and Leon**: always tying to make a trade they are the loudest managers in the league, we NEED to win against them to use as leverage when the inevitable make a trade offer followed by a "you're team sucks, you really need this trade" as they try to gaslight us into something terrible.
 -   **Josh Jacobs**: Last week our counter cheering didn't really work on Josh Allen, so this week hopefully Josh Jacobs doesn't do well, we're due. As their highest projected player we could really use an underperformace thursday night!
 -   **Jaxon Smith-Njigba**: Sunday 1pm right before Malcolms and Sydney's wedding let's hope he doesn't pop off like week 1, we'll all be spinning terrible towels this blessed sunday.
