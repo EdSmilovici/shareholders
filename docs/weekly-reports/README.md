@@ -58,6 +58,6 @@ Prime time baby, this week we've got important players playing in all three prim
 
 ### Hate
 
--   **Mike and Leon**: always tying to make a trade they are the loudest managers in the league, we NEED to win against them to use as leverage when the inevitable make a trade offer followed by a "you're team sucks, you really need this trade" as they try to gaslight us into something terrible.
+-   **Mike and Leon**: always tying to make a trade they are the loudest managers in the league, we NEED to win against them to use as leverage when the inevitable make a trade offer followed by a "your team sucks, you really need this trade" as they try to gaslight us into something terrible.
 -   **Josh Jacobs**: Last week our counter cheering didn't really work on Josh Allen, so this week hopefully Josh Jacobs doesn't do well, we're due. As their highest projected player we could really use an underperformace thursday night!
 -   **Jaxon Smith-Njigba**: Sunday 1pm right before Malcolms and Sydney's wedding let's hope he doesn't pop off like week 1, we'll all be spinning terrible towels this blessed sunday.
