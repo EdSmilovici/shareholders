@@ -51,7 +51,7 @@ None
 
 Nobody's playing Thursday or Monday so we're only love watching Sunday.
 
--   **Devin Bursey**: i don't know, he texted me asking for a prayer in this weeks report and so here it is, he's play Julien so he shouldn't need it but with his star qb Toe Burrow being out for surgery he probably does need a hand :pray:
+-   **Devin Bursey**: i don't know, he texted me asking for a prayer in this weeks report and so here it is, he's playing Julien this week so he shouldn't need it but with his star qb Toe Burrow being out for surgery he probably does need a hand :pray:
 -   **Trey McBride**: Our starting tight end, he underperformed last week so we need him to do better this week or we might have to swap him out with Kraft on our bench.
 -   **Bijan Robinson**: He put up 168 yeards last week lets home he can put even more up this week.
 
