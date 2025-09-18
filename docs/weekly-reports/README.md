@@ -2,62 +2,63 @@
 
 ## Week 1 Recap
 
-### The Bust Gazette
+### The Busted Gazette
 
-Juicy week 1 report for you all. Let’s be honest, we shouldn’t have won week 1, we scraped by beating Julien by 5 points carried by Bijan, Egbuka and Butker, this was a good start to the season. The birds (:horse: :poop: :plate_with_cutlery:) tried to screw us on defence but the rest of the team pulled together to carry them across the finish line. Shout out to AJ Brown his WR1 who scored a whopping fat 1.8 points. We got lucky folks.
-Speaking about luck, we are lucky that our shareholder Matt Helmer spoke up about Dak Prescott being an overall garbage pickup. Week 1 shows this QUARTERBACK that scored 7.8 points, good thing he was on the bench, great management Ry! To put this into context, I’d rather have a kicker in our QB spot than let this man have a chance. Happy he is on the bench, but would be even happier see him infiltrate someone else’s team and destroy their passion to play the game.
-Next week we play against some dude named LLIFS, who currently has 2 played in a Questionable state. Let’s pray that his players bust harder than the boys in the gondoluzzy.
+Week 2 was rough, can't believe wak dak outperformed Daniels, we'll have to see who has the better match up this week. Butler missed a 58 yard field goal, he better not miss any this week. Overall unfortunately our bench had 4 players that performed higher than their projections so our team is fine, just an unlucky week. Word on the street was the Shareholders consultant Jack Burnett was on vacation, it may be the reason our team fell apart.
 
-### League Trades
+Rumour on the street was that Leon was going to make Arian a heavy trade if he lost to the Shareholders this week. However, I’m sure his daily trades will continue now that he has gained a bit of confidence. If only we had Sean Evans to give us some football advice from his peewee days.
 
-![week1trade](../images/week2trade.png ":class=image")
+This week we are up against Michael D’Ettorre, who is frantically on the waiver wire trying to make pick ups to boost his projected score. I think the only pickups he really needs are the one he takes from shooting out of bounds on the greens. :golf:
 
-Devin swore when he threw this into a trade analyzer it said it was in his favor but the league's reaction is he got fleeced, for an uneven numbered trade at leats it was large and not a 2 for 1, either way it'll be fun to watch these players this week to call one of these two managers dumb for making such a bad trade.
+### Trades
+
+Michael (King Rexxcy) has apparently been trying to trade us, if you see him, mention that you can't believe he is trying to feece us with some terrible offers and that he might be worse than Mike and Leon.
 
 ## Rosters
 
-| **Shareholders**     | **Position** |             **llifs099** |
-| :------------------- | :----------: | -----------------------: |
-| J. Daniels - WAS     |    **QB**    |          D. Maye QB - NE |
-| B. Robinson - ATL    |    **RB**    |        J. Jacobs RB - GB |
-| T. Pollard RB - TEN  |    **RB**    |   Z. Charbonnet RB - SEA |
-| R. Pearsall WR - SF  |    **WR**    |         C. Lamb WR - DAL |
-| D. Metcalf - PIT     |    **WR**    | J. Smith-Njigba WR - SEA |
-| T. McBride - ARI     |    **TE**    |        B. Bowers TE - LV |
-| E. Egbuka WR - TB    |   **WRT**    |         C. Olave WR - NO |
-| D. London - ATL      |   **WRT**    |     T. McMillan WR - CAR |
-| H. Butker K - KC     |    **K**     |       C. Boswell K - PIT |
-| PHI                  |   **DEF**    |                       SF |
-| D. Prescott QB - DAL |  **BENCH**   |        B. Tuten RB - JAX |
-| N. Chubb RB - HOU    |  **BENCH**   |        J. Mixon RB - HOU |
-| R. Harvey RB - DEN   |  **BENCH**   |      B. Robinson RB - SF |
-| T. Tracy - NYG       |  **BENCH**   |       1. Pacheco RB - KC |
-| K. Allen WR - LAC    |  **BENCH**   |          R. Rice WR - KC |
-| T. Kraft TE - GB     |  **BENCH**   |        M. Golden WR - GB |
+| **Shareholders**     | **Position** | **King Rexxcy:crown:** |
+| :------------------- | :----------: | ---------------------: |
+| J. Daniels - WAS     |    **QB**    |     P. Mahomes QB - KC |
+| B. Robinson - ATL    |    **RB**    |      J. Gibbs RB - DET |
+| T. Pollard RB - TEN  |    **RB**    |     D. Achane RB - MIA |
+| D. London - ATL      |    **WR**    |   L. McConkey WR - LAC |
+| D. Metcalf - PIT     |    **WR**    |      D. Adams WR - LAR |
+| T. McBride - ARI     |    **TE**    |       Z. Ertz TE - WAS |
+| E. Egbuka WR - TB    |   **WRT**    |     R. Odunze WR - CHI |
+| R. Pearsall WR - SF  |   **WRT**    |     K. Walker RB - SEA |
+| H. Butker K - KC     |    **K**     |   E. McPherson K - CIN |
+| PHI                  |   **DEF**    |                    SEA |
+| D. Prescott QB - DAL |  **BENCH**   |    J. Herbert OB - LAC |
+| N. Chubb RB - HOU    |  **BENCH**   |     T. Benson RB - ARI |
+| R. Harvey RB - DEN   |  **BENCH**   |       C. Kupp WR - SEA |
+| T. Tracy - NYG       |  **BENCH**   |     C. Sutton WR - DEN |
+| K. Allen WR - LAC    |  **BENCH**   |       H. Brown WR - KC |
+| T. Kraft TE - GB     |  **BENCH**   |    B. Strange TE - JAX |
 
 ## Pick ups and drops
 
-:heavy_minus_sign: D. Thornton WR - LV
-:heavy_minus_sign: B. Allen RB - NYJ
-:heavy_plus_sign: Nick Chubb RB - HOU
-:heavy_plus_sign: Keenan Allen WR - LV
+None
 
 ## Injury report
 
-D. London (shoulder) was limited at Wednesday's practice, Tori McElhaney of the Falcons' official site reports. Surely he's fine simply resting a little but we have two decent subs in Tyrone Tracy and Keenen Allen waiting on the bench to take his place if his questionable mark gets upgraded to out, so althought the injury report isn't clean, there is nothing to worry about.
+**Jayden Daniels** did not practice wednesday or Thursday due to a knee issue, he's still expected to play Sunday but no need to stress Dak is always in our back pocket and is scheduled to play later so the decision can be made in the very last second
+
+**Emeka Egbuka** also did not practice wednesday or Thursday, although he only has the questionable tag he's the most likely to last second be upgraded to out and sit out but we expect him to play.
 
 ## Hate and Love Watch
 
 ### Love
 
-Prime time baby, this week we've got important players playing in all three prime time games, Thursday, Sunday nights 8:00 PM and Monday at 7pm.
+Nobody's playing Thursday or Monday so we're only love watching Sunday.
 
--   **Jayden Daniels**: Our QB plays thursday night, this won't necessarily set the tone of the week as long as he comes close to his projected, i have faith but with the QB we really just have to dodge a really low score, anything near projected will do!
--   **Bijan Robinson**: Did well week one and we look forward to him cutting through the terrible vikings defence sunday night.
--   **Emeka Egbuka**: Another Week 1 performer lets hope for plenty of targets and receptions week 2 to hopefully see him get promotted to WR1.
+-   **Devin Bursey**: i don't know, he texted me asking for a prayer in this weeks report and so here it is, he's play Julien so he shouldn't need it but with his star qb Toe Burrow being out for surgery he probably does need a hand :pray:
+-   **Trey McBride**: Our starting tight end, he underperformed last week so we need him to do better this week or we might have to swap him out with Kraft on our bench.
+-   **Bijan Robinson**: He put up 168 yeards last week lets home he can put even more up this week.
 
 ### Hate
 
--   **Mike and Leon**: always tying to make a trade they are the loudest managers in the league, we NEED to win against them to use as leverage when the inevitable make a trade offer followed by a "your team sucks, you really need this trade" as they try to gaslight us into something terrible.
--   **Josh Jacobs**: Last week our counter cheering didn't really work on Josh Allen, so this week hopefully Josh Jacobs doesn't do well, we're due. As their highest projected player we could really use an underperformace thursday night!
--   **Jaxon Smith-Njigba**: Sunday 1pm right before Malcolms and Sydney's wedding let's hope he doesn't pop off like week 1, we'll all be spinning terrible towels this blessed sunday.
+Prime time hate watching, king rexxcy has stars playing Thursday, Sunday and Monday night.
+
+-   **Patrick Mahomes**: Kansas City Quarterback has an easier matchup against the NY Giants but we can still pray for an underperformance. Sunday night 8:20 PM Prime time so lock in for some incomplete receptions.
+-   **De'Von Achane**: Michael's second round pick is expected to put up 22 points, hopefully the buffalo defence can hold him back on Thursday night football.
+-   **Jahmyr Gibbs**: Monday night we need him to run fewer than usual, last week he cleared 100 yards, this week lets see a max of 20 :joy:
