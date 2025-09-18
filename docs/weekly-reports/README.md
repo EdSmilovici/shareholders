@@ -1,6 +1,6 @@
-# Week 2
+# Week 3
 
-## Week 1 Recap
+## Week 2 Recap
 
 ### The Busted Gazette
 
