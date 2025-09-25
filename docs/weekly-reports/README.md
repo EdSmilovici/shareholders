@@ -12,7 +12,7 @@ We face off against Nino (Michael's Dad) this week and it pains me to root again
 
 Brent Jr has been negotiating some trades but so far nothing has come to fruition but check this :clown: out, get hit with the uno reverse Arian
 
-![week3trade](../images/week3trade.png ":class=image")
+![week3trade1](../images/week3trade1.png ":class=image")
 
 This just in, I guess any pending trades we had with Arian are off now, so I'm going to put a season long hate watch on his players :facepunch: A lot of Greenbay coming his way so rooting against the cheese heads is fair game now! :cheese: :no_entry_sign:
 
