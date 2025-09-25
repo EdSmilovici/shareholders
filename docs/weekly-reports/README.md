@@ -1,64 +1,70 @@
-# Week 3
+# Week 4
 
-## Week 2 Recap
+## Week 3 Recap
 
 ### The Busted Gazette
 
-Week 2 was rough, can't believe wak dak outperformed Daniels, we'll have to see who has the better match up this week. Butler missed a 58 yard field goal, he better not miss any this week. Overall unfortunately our bench had 4 players that performed higher than their projections so our team is fine, just an unlucky week. Word on the street was the Shareholders consultant Jack Burnett was on vacation, it may be the reason our team fell apart.
+You thought week 2 was rough?! Week 3 was even worst, such a rollercoaster of emotions from 10% chance to win; to 99%; to losing. So many slight errors by our players that if we dodged just one we would have won :sob:
 
-Rumour on the street was that Leon was going to make Arian a heavy trade if he lost to the Shareholders this week. However, I’m sure his daily trades will continue now that he has gained a bit of confidence. If only we had Sean Evans to give us some football advice from his peewee days.
-
-This week we are up against Michael D’Ettorre, who is frantically on the waiver wire trying to make pick ups to boost his projected score. I think the only pickups he really needs are the one he takes from shooting out of bounds on the greens. :golf:
+We face off against Nino (Michael's Dad) this week and it pains me to root against him but we really need a win to even our record out. We cannot lose to a Dettorre two weeks in a row. Who's next Nono?! get me off this train.
 
 ### Trades
 
-Michael (King Rexxcy) has apparently been trying to trade us, if you see him, mention that you can't believe he is trying to feece us with some terrible offers and that he might be worse than Mike and Leon.
+Brent Jr has been negotiating some trades but so far nothing has come to fruition but check this :clown: out, get hit with the uno reverse Arian
+
+![week3trade](../images/week3trade.png ":class=image")
+
+This just in, I guess any pending trades we had with Arian are off now, so I'm going to put a season long hate watch on his players :facepunch: A lot of Greenbay coming his way so rooting against the cheese heads is fair game now! :cheese: :no_entry_sign:
+
+![week3trade2](../images/week3trade2.png ":class=image")
 
 ## Rosters
 
-| **Shareholders**     | **Position** | **King Rexxcy:crown:** |
-| :------------------- | :----------: | ---------------------: |
-| J. Daniels - WAS     |    **QB**    |     P. Mahomes QB - KC |
-| B. Robinson - ATL    |    **RB**    |      J. Gibbs RB - DET |
-| T. Pollard RB - TEN  |    **RB**    |     D. Achane RB - MIA |
-| D. London - ATL      |    **WR**    |   L. McConkey WR - LAC |
-| D. Metcalf - PIT     |    **WR**    |      D. Adams WR - LAR |
-| T. McBride - ARI     |    **TE**    |       Z. Ertz TE - WAS |
-| E. Egbuka WR - TB    |   **WRT**    |     R. Odunze WR - CHI |
-| R. Pearsall WR - SF  |   **WRT**    |     K. Walker RB - SEA |
-| H. Butker K - KC     |    **K**     |   E. McPherson K - CIN |
-| PHI                  |   **DEF**    |                    SEA |
-| D. Prescott QB - DAL |  **BENCH**   |    J. Herbert OB - LAC |
-| N. Chubb RB - HOU    |  **BENCH**   |     T. Benson RB - ARI |
-| R. Harvey RB - DEN   |  **BENCH**   |       C. Kupp WR - SEA |
-| T. Tracy - NYG       |  **BENCH**   |     C. Sutton WR - DEN |
-| K. Allen WR - LAC    |  **BENCH**   |       H. Brown WR - KC |
-| T. Kraft TE - GB     |  **BENCH**   |    B. Strange TE - JAX |
+| **Shareholders**     | **Position** |        **Merivale Maulers** |
+| :------------------- | :----------: | --------------------------: |
+| J. Daniels - WAS     |    **QB**    |         L. Jackson OB - BAL |
+| B. Robinson - ATL    |    **RB**    |        C. McCaffrey RB - SF |
+| T. Pollard RB - TEN  |    **RB**    |            J. Cook RB - BUF |
+| D. London - ATL      |    **WR**    |          D. Samuel WR - WAS |
+| E. Egbuka WR - TB    |    **WR**    |           D. Moore WR - CHI |
+| T. McBride - ARI     |    **TE**    |        J. Ferguson TE - DAL |
+| R. Pearsall WR - SF  |   **WRT**    |           A. Kamara RB - NO |
+| K. Allen WR - LAC    |   **WRT**    |        J. Williams RB - DAL |
+| H. Butker K - KC     |    **K**     |           M. Prater K - BUF |
+| PHI                  |   **DEF**    |                         BUF |
+| D. Prescott QB - DAL |  **BENCH**   |            J. Goff QB - DET |
+| N. Chubb RB - HOU    |  **BENCH**   | J. Croskey-Merritt RB - WAS |
+| R. Harvey RB - DEN   |  **BENCH**   |          K. Shakir WR - BUF |
+| R. Harvey RB - HOU   |  **BENCH**   |        J. Williams WR - DET |
+| D. Metcalf - PIT     |  **BENCH**   |         M. Andrews TE - BAL |
+| T. Kraft TE - GB     |  **BENCH**   |                         BAL |
 
 ## Pick ups and drops
 
-None
+:heavy_plus_sign: R. Harvey RB - HOU
+
+:heavy_minus_sign: T. Tracy - NYG
 
 ## Injury report
 
-**Jayden Daniels** did not practice wednesday or Thursday due to a knee issue, he's still expected to play Sunday but no need to stress Dak is always in our back pocket and is scheduled to play later so the decision can be made in the very last second
+**Jayden Daniels** did not practice wednesday again this week it's reported that "it's up to the doctors" whether or not he plays on Sunday. Fortunately Dak plays later in the day Sunday so he will be ready to step in if Jayden takes another week off to recover.
 
-**Emeka Egbuka** also did not practice wednesday or Thursday, although he only has the questionable tag he's the most likely to last second be upgraded to out and sit out but we expect him to play.
+**Emeka Egbuka** recovered last week and played about projected so he seems to be back in form.
 
 ## Hate and Love Watch
 
 ### Love
 
-Nobody's playing Thursday or Monday so we're only love watching Sunday.
+All but 3 of the current starting line up are playing Sunday 1pm, so if you wanted to cheer the boys on redzone at that time would be the move.
 
--   **Devin Bursey**: i don't know, he texted me asking for a prayer in this weeks report and so here it is, he's playing Julien this week so he shouldn't need it but with his star qb Toe Burrow being out for surgery he probably does need a hand :pray:
--   **Trey McBride**: Our starting tight end, he underperformed last week so we need him to do better this week or we might have to swap him out with Kraft on our bench.
--   **Bijan Robinson**: He put up 168 yeards last week lets home he can put even more up this week.
+-   **Trey McBride**: Our starting tight end, put up 15 points last week and we're hoping for another 15 this Thursday against the Seahawks.
+-   **Keenan Allen**: Sunday 1 pm Keenan is facing off against the 0-3 NY Giants, he's 3 for 3 on 5+ point over performaces this season so he's definitely one of our sleeper players, hopefuly he can keep it up because he's giving us an edge.
+-   **Bijan Robinson**: Slight underperformance last week, hopefully he can make up those missing points last week. Another 1pm Sunday player.
 
 ### Hate
 
-Prime time hate watching, king rexxcy has stars playing Thursday, Sunday and Monday night.
+Nino's also got quite a few players Sunday 1pm (makes sense most games are scheduled then)
 
--   **Patrick Mahomes**: Kansas City Quarterback has an easier matchup against the NY Giants but we can still pray for an underperformance. Sunday night 8:20 PM Prime time so lock in for some incomplete receptions.
--   **De'Von Achane**: Michael's second round pick is expected to put up 22 points, hopefully the buffalo defence can hold him back on Thursday night football.
--   **Jahmyr Gibbs**: Monday night we need him to run fewer than usual, last week he cleared 100 yards, this week lets see a max of 20 :joy:
+-   **Buffalo**: We have no Buffalo players so screw it lets hate the whole team this week, Nino's got their defence and their star running back in James Cook. They play New Orleans Sunday at 1pm.
+-   **James Cook**: Plays for Buffalo and remember we aggreed to hate them this week (see above).
+-   **Christian McCafferey**: he's put up ovcer 20 points each game so far, we can't have that this week, he didn't practice this Wednesday due to a calf sprain but he's looking good to play this weekend, hopefully their overly cautious and let him relax this Sunday at 4pm.
