@@ -1,70 +1,72 @@
-# Week 4
+# Week 5
 
-## Week 3 Recap
+## Week 4 Recap
 
 ### The Busted Gazette
 
-You thought week 2 was rough?! Week 3 was even worst, such a rollercoaster of emotions from 10% chance to win; to 99%; to losing. So many slight errors by our players that if we dodged just one we would have won :sob:
+Week 4 people, what a wild ride it’s been.
 
-We face off against Nino (Michael's Dad) this week and it pains me to root against him but we really need a win to even our record out. We cannot lose to a Dettorre two weeks in a row. Who's next Nono?! get me off this train.
+3.3 is the magic number etched into the ruler in Brian’s bedside table AND the number of points we BEAT Nino by 🥰🥰🥰 funny enough, it is also the number of seconds itll take Ed to find an aux cord at a party and play some Spanish chiquito. At least he doesn’t lock us in a car and explain what each song means 😂
+
+So far this season has gone pretty well with 2 Wins and 2 Losses. Just like changing my daughter’s diaper, sometimes you just need to lock in and deal with the shit. I had practice listening to Brian’s dad jokes, so thankfully it has been easy for me. 😈🙊
+
+Let’s refocus, we got a WIN!! I am a bit shocked though. Matt & Malia have rearranged their furniture more than our starting line up, and somehow we were able to squeak away with a W. I’d like to thank the Eagles for scoring 16 points and absolutely crushing Ninos spirits. I bet when he was watching that game he was sweating more than Ed on the dancefloor at any wedding. 💃 Rumour has it Nino was distracted this week posting pictures of his granddaughter on instagram without the mother’s permission 🙊
+
+Speaking of mother’s permission, is that what we need for Ryland to finally lock Dak into starting position? This man is consistently performing everytime we put him on the bench!! Truly Dak is going the distance, but not as far as Ryland’s new commute to work at the airport. ✈️ 😤 Matt may have a hard time painting lips, but his lips have been speaking the good word about Dak and the shareholders need to listen 👂
+
+Maybe I have trouble listening, because I don’t remember us taking advice from Andrew and rostering 3 quarterbacks. 😂 However, maybe it was Andrew who made the executive decision on the pick ups?? I just assumed there wouldn’t be strong enough wifi in the strip club or the casino 👀
+
+Another great week for Cuk Chef & the Boys, let’s have another one next week ☝️
 
 ### Trades
 
-Brent Jr has been negotiating some trades but so far nothing has come to fruition but check this :clown: out, get hit with the uno reverse Arian
-
-![week3trade1](../images/week3trade1.png ":class=image")
-
-This just in, I guess any pending trades we had with Arian are off now, so I'm going to put a season long hate watch on his players :facepunch: A lot of Greenbay coming his way so rooting against the cheese heads is fair game now! :cheese: :no_entry_sign:
-
-![week3trade2](../images/week3trade2.png ":class=image")
+None
 
 ## Rosters
 
-| **Shareholders**     | **Position** |        **Merivale Maulers** |
-| :------------------- | :----------: | --------------------------: |
-| J. Daniels - WAS     |    **QB**    |         L. Jackson OB - BAL |
-| B. Robinson - ATL    |    **RB**    |        C. McCaffrey RB - SF |
-| T. Pollard RB - TEN  |    **RB**    |            J. Cook RB - BUF |
-| D. London - ATL      |    **WR**    |          D. Samuel WR - WAS |
-| E. Egbuka WR - TB    |    **WR**    |           D. Moore WR - CHI |
-| T. McBride - ARI     |    **TE**    |        J. Ferguson TE - DAL |
-| R. Pearsall WR - SF  |   **WRT**    |           A. Kamara RB - NO |
-| K. Allen WR - LAC    |   **WRT**    |        J. Williams RB - DAL |
-| H. Butker K - KC     |    **K**     |           M. Prater K - BUF |
-| PHI                  |   **DEF**    |                         BUF |
-| D. Prescott QB - DAL |  **BENCH**   |            J. Goff QB - DET |
-| N. Chubb RB - HOU    |  **BENCH**   | J. Croskey-Merritt RB - WAS |
-| R. Harvey RB - DEN   |  **BENCH**   |          K. Shakir WR - BUF |
-| R. Harvey RB - HOU   |  **BENCH**   |        J. Williams WR - DET |
-| D. Metcalf - PIT     |  **BENCH**   |         M. Andrews TE - BAL |
-| T. Kraft TE - GB     |  **BENCH**   |                         BAL |
+| **Shareholders**     | **Position** |       **Hawk893🦅** |
+| :------------------- | :----------: | ------------------: |
+| J. Daniels - WAS     |    **QB**    | B. Mayfield QB - TB |
+| N. Chubb RB - HOU    |    **RB**    |   D. Henry RB - BAL |
+| R. Harvey RB - DEN   |    **RB**    |   A. Jeanty RB - LV |
+| K. Allen WR - LAC    |    **WR**    |  G. Wilson WR - NYJ |
+| E. Egbuka WR - TB    |    **WR**    | Z. Flowers WR - BAL |
+| T. McBride - ARI     |    **TE**    | S. LaPorta TE - DET |
+| M. Carter RB - ARI   |   **WRT**    | T. Etienne RB - JAX |
+| T. Pollard RB - TEN  |   **WRT**    |  J. Waddle WR - MIA |
+| H. Butker K - KC     |    **K**     |   B. Aubrey K - DAL |
+| PHI                  |   **DEF**    |                  GB |
+| D. Prescott QB - DAL |  **BENCH**   | X. Legette WR - CAR |
+| B. Robinson - ATL    |  **BENCH**   |    M. Evans WR - TB |
+| R. Pearsall WR - SF  |  **BENCH**   |   J. Jeudy WR - CLE |
+| D. Metcalf - PIT     |  **BENCH**   |  D. Mooney WR - ATL |
+| D. London - ATL      |  **BENCH**   | R. Bateman WR - BAL |
+| T. Kraft TE - GB     |  **BENCH**   | D. Kincaid TE - BUF |
 
 ## Pick ups and drops
 
-:heavy_plus_sign: R. Harvey RB - HOU
+:heavy_plus_sign: M. Carter RB - ARI
 
-:heavy_minus_sign: T. Tracy - NYG
+:heavy_minus_sign: R. Doubs WR - GB
 
 ## Injury report
 
-**Jayden Daniels** did not practice wednesday again this week it's reported that "it's up to the doctors" whether or not he plays on Sunday. Fortunately Dak plays later in the day Sunday so he will be ready to step in if Jayden takes another week off to recover.
-
-**Emeka Egbuka** recovered last week and played about projected so he seems to be back in form.
+**Ricky Pearsall** hurt week 4 it's not looking like he'll have had enough time to recover for a Thursday night game.
 
 ## Hate and Love Watch
 
 ### Love
 
-All but 3 of the current starting line up are playing Sunday 1pm, so if you wanted to cheer the boys on redzone at that time would be the move.
+No thursday night players and just Butker on Monday.
 
--   **Trey McBride**: Our starting tight end, put up 15 points last week and we're hoping for another 15 this Thursday against the Seahawks.
--   **Keenan Allen**: Sunday 1 pm Keenan is facing off against the 0-3 NY Giants, he's 3 for 3 on 5+ point over performaces this season so he's definitely one of our sleeper players, hopefuly he can keep it up because he's giving us an edge.
--   **Bijan Robinson**: Slight underperformance last week, hopefully he can make up those missing points last week. Another 1pm Sunday player.
+-   **Jayden Daniels**: Back from his knee injury it's good to have our starting QB back, hopefully he puts up a safe amount of points.
+-   **Trey McBride**: Our starting tight end, didn't quite get his projected 15 last week but surely he does this week and a few points ontop to make up for last week.
+-   **Keenan Allen**: Only 8 points last week hopefuly he locks in and gets back to his 19 point form like the start of the season.
 
 ### Hate
 
-Nino's also got quite a few players Sunday 1pm (makes sense most games are scheduled then)
+With Nedim's defence on bye this week he'll have to make a move to fill that possition, other then that lock in on hate watching Mayfield and Henry.
 
--   **Buffalo**: We have no Buffalo players so screw it lets hate the whole team this week, Nino's got their defence and their star running back in James Cook. They play New Orleans Sunday at 1pm.
--   **James Cook**: Plays for Buffalo and remember we aggreed to hate them this week (see above).
--   **Christian McCafferey**: he's put up ovcer 20 points each game so far, we can't have that this week, he didn't practice this Wednesday due to a calf sprain but he's looking good to play this weekend, hopefully their overly cautious and let him relax this Sunday at 4pm.
+-   **Nedim's Defence**: hopefully whoever he picks up puts up negative points 💕
+-   **Baker Mayfield**: multiple interceptions please, he isn't the highest projected QB so lot's of room to mess up.
+-   **Derrick Henry**: This is the scary one, he can put up massive numbers when he gets running, definitely worth watching.
