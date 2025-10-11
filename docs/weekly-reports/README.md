@@ -1,72 +1,72 @@
-# Week 5
+# Week 6
 
-## Week 4 Recap
+## Week 5 Recap
 
 ### The Busted Gazette
 
-Week 4 people, what a wild ride it’s been.
+Are my words not reaching the correct audience? Dak Prescott putting up 10 points more than our starting peepeepoopoo quarterback. Now I’m going to have to listen to Nedim make fun of me for the next week. PLUS I’m out in the survivor league AND I’m getting chopped from the other league. Not a great week for me.
 
-3.3 is the magic number etched into the ruler in Brian’s bedside table AND the number of points we BEAT Nino by 🥰🥰🥰 funny enough, it is also the number of seconds itll take Ed to find an aux cord at a party and play some Spanish chiquito. At least he doesn’t lock us in a car and explain what each song means 😂
+Our team manager called this a “scheduled loss”, and to be fair it absolutely was, hopefully this week is a scheduled WIN because Colin Macphee has 4 injured players on his bench and Daddy needs to buy a running stroller .
 
-So far this season has gone pretty well with 2 Wins and 2 Losses. Just like changing my daughter’s diaper, sometimes you just need to lock in and deal with the shit. I had practice listening to Brian’s dad jokes, so thankfully it has been easy for me. 😈🙊
+I heard Arian is throwing a big party on the 25th and his hiring dealers to make it a Lac Leamy experience. Maybe we could even convince him to gamble away his players to us or accept a drunk trade 👀
 
-Let’s refocus, we got a WIN!! I am a bit shocked though. Matt & Malia have rearranged their furniture more than our starting line up, and somehow we were able to squeak away with a W. I’d like to thank the Eagles for scoring 16 points and absolutely crushing Ninos spirits. I bet when he was watching that game he was sweating more than Ed on the dancefloor at any wedding. 💃 Rumour has it Nino was distracted this week posting pictures of his granddaughter on instagram without the mother’s permission 🙊
+Anyways I’m out of commission for surgery, but hopefully we can do a board game night soon. Love you guys. If I die on the operating table, just know that it was a pleasure being your friend. Take care of Rachel & Rowan, and please don’t let them spend my RRSP on anything besides glizzys & pickles for the ski hill.
 
-Speaking of mother’s permission, is that what we need for Ryland to finally lock Dak into starting position? This man is consistently performing everytime we put him on the bench!! Truly Dak is going the distance, but not as far as Ryland’s new commute to work at the airport. ✈️ 😤 Matt may have a hard time painting lips, but his lips have been speaking the good word about Dak and the shareholders need to listen 👂
+Love,
 
-Maybe I have trouble listening, because I don’t remember us taking advice from Andrew and rostering 3 quarterbacks. 😂 However, maybe it was Andrew who made the executive decision on the pick ups?? I just assumed there wouldn’t be strong enough wifi in the strip club or the casino 👀
+Fresh Prince of Kanata
 
-Another great week for Cuk Chef & the Boys, let’s have another one next week ☝️
+Editors Note: Unlike our manager I not only picked up dak this week but i fielded him against Matt to show him his true power. W for me, how could he be so foolish.
 
 ### Trades
 
-None
+Just in we traded M. Carter for W. Marks, literaly a random pick up last week, hopefully we end up on top because we traded Mike and Leon; and we do not want to lose on a trade with them because we will never hear the end of it. Can't believe they didn't accept our offer of dak last week, it would have won the week of them, instead they lost (keep this in mind for chirping them).
+
+![week6trade](../images/week6trade.png ":class=image")
 
 ## Rosters
 
-| **Shareholders**     | **Position** |       **Hawk893🦅** |
-| :------------------- | :----------: | ------------------: |
-| J. Daniels - WAS     |    **QB**    | B. Mayfield QB - TB |
-| N. Chubb RB - HOU    |    **RB**    |   D. Henry RB - BAL |
-| R. Harvey RB - DEN   |    **RB**    |   A. Jeanty RB - LV |
-| K. Allen WR - LAC    |    **WR**    |  G. Wilson WR - NYJ |
-| E. Egbuka WR - TB    |    **WR**    | Z. Flowers WR - BAL |
-| T. McBride - ARI     |    **TE**    | S. LaPorta TE - DET |
-| M. Carter RB - ARI   |   **WRT**    | T. Etienne RB - JAX |
-| T. Pollard RB - TEN  |   **WRT**    |  J. Waddle WR - MIA |
-| H. Butker K - KC     |    **K**     |   B. Aubrey K - DAL |
-| PHI                  |   **DEF**    |                  GB |
-| D. Prescott QB - DAL |  **BENCH**   | X. Legette WR - CAR |
-| B. Robinson - ATL    |  **BENCH**   |    M. Evans WR - TB |
-| R. Pearsall WR - SF  |  **BENCH**   |   J. Jeudy WR - CLE |
-| D. Metcalf - PIT     |  **BENCH**   |  D. Mooney WR - ATL |
-| D. London - ATL      |  **BENCH**   | R. Bateman WR - BAL |
-| T. Kraft TE - GB     |  **BENCH**   | D. Kincaid TE - BUF |
+| **Shareholders**     | **Position** |     **Colin Macphee** |
+| :------------------- | :----------: | --------------------: |
+| D. Prescott QB - DAL |    **QB**    |       B. Nix QB - DEN |
+| B. Robinson - ATL    |    **RB**    |     C. Brown RB - CIN |
+| T. Pollard RB - TEN  |    **RB**    |  R. Stevenson RB - NE |
+| K. Allen WR - LAC    |    **WR**    |  E. Ayomanor WR - TEN |
+| D. Metcalf - PIT     |    **WR**    |     P. Nacua WR - LAR |
+| T. McBride - ARI     |    **TE**    |      T. Kelce TE - KC |
+| D. London - ATL      |   **WRT**    |     K. Pitts TE - ATL |
+| E. Egbuka WR - TB    |   **WRT**    |     D. Swift RB - CHI |
+| H. Butker K - KC     |    **K**     |      J. Bates K - DET |
+| PHI                  |   **DEF**    |                   IND |
+| J. Daniels - WAS     |  **BENCH**   |  J. McCarthy QB - MIN |
+| W. Marks RB - HOU    |  **BENCH**   |   C. Hubbard RB - CAR |
+| R. Pearsall WR - SF  |  **BENCH**   |     C. Godwin WR - TB |
+| R. Harvey RB - DEN   |  **BENCH**   |      C. Kirk WR - HOU |
+| N. Chubb RB - HOU    |  **BENCH**   |  T. McLaurin WR - WAS |
+| T. Kraft TE - GB     |  **BENCH**   | J. Jefferson WR - MIN |
 
 ## Pick ups and drops
 
-:heavy_plus_sign: M. Carter RB - ARI
-
-:heavy_minus_sign: R. Doubs WR - GB
+None
 
 ## Injury report
 
-**Ricky Pearsall** hurt week 4 it's not looking like he'll have had enough time to recover for a Thursday night game.
+**Ricky Pearsall** Still out, won't be playing this sunday
 
 ## Hate and Love Watch
 
 ### Love
 
-No thursday night players and just Butker on Monday.
+No thursday night players and just Bijan on Monday.
 
--   **Jayden Daniels**: Back from his knee injury it's good to have our starting QB back, hopefully he puts up a safe amount of points.
--   **Trey McBride**: Our starting tight end, didn't quite get his projected 15 last week but surely he does this week and a few points ontop to make up for last week.
--   **Keenan Allen**: Only 8 points last week hopefuly he locks in and gets back to his 19 point form like the start of the season.
+-   **Dak Prescott**: Finally after weeks of begging we finally are starting this legend, you're welcome Matt, i know you've been dying to see him perform for us.
+-   **Bijan Robinson**: Coming off of a bye Bijan faces the bills monday night, hopefully the rest brings us some great performace.
+-   **Emeka Egbuka**: He listened and put up 30 points last week, do it again Sunday at 4:35 against the whiners.
 
 ### Hate
 
-With Nedim's defence on bye this week he'll have to make a move to fill that possition, other then that lock in on hate watching Mayfield and Henry.
+Ryan's got a bunch of injuries, so we really just need to lock in on hatewatching Pookie, his one all star.
 
--   **Nedim's Defence**: hopefully whoever he picks up puts up negative points 💕
--   **Baker Mayfield**: multiple interceptions please, he isn't the highest projected QB so lot's of room to mess up.
--   **Derrick Henry**: This is the scary one, he can put up massive numbers when he gets running, definitely worth watching.
+-   **Puka Nacua**: projected for 22 points we could use an underperformance, he hasn't yet scored under 22 points so surely he's due.
+-   **Bo Nix**: Ryan's quarterback, projected low, hopefully he underperforms even lower.
+-   **Jake Bates**: Running out of people to cheer against so let's pray his kicker misses some kicks or doesn't get the opportunity to score any long ones.
