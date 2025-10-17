@@ -27,24 +27,25 @@ None
 ## Rosters
 
 This week we face off against 5-1 Arian, a win here would be very sweet but his team looks pretty healthy so we're going to have to fight for this one.
-| **Shareholders** | **Position** | **Team ArianNabavi** |
+
+| **Shareholders**     | **Position** | **Team ArianNabavi** |
 | :------------------- | :----------: | -------------------: |
-| J. Daniels QB - WAS | **QB** | J. Hurts OB - PHI |
-| B. Robinson - ATL | **RB** | J. Taylor RB - IND |
-| T. Pollard RB - TEN | **RB** | J. Jacobs RB - GB |
-| K. Allen WR - LAC | **WR** | G. Pickens WR - DAL |
-| D. Metcalf - PIT | **WR** | M. Golden WR - GB |
-| T. McBride - ARI | **TE** | D. Waller TE - MIA |
-| D. London - ATL | **WRT** | J. Mason RB - MIN |
-| T. Kraft TE - GB | **WRT** | N. Collins WR - HOU |
-| H. Butker K - KC | **K** | C. Boswell K - PIT |
-| PHI | **DEF** | SEA |
-| D. Prescott QB - DAL | **BENCH** | I. Pacheco RB - KC |
-| W. Marks RB - HOU | **BENCH** | K. Coleman WR - BUF |
-| R. Pearsall WR - SF | **BENCH** | J. Meyers WR - LV |
-| R. Harvey RB - DEN | **BENCH** | J. Williams WR - DET |
-| N. Chubb RB - HOU | **BENCH** | J. Downs WR - IND |
-| E. Egbuka WR - TB | **BENCH** | M. Taylor TE - NYJ |
+| J. Daniels QB - WAS  |    **QB**    |    J. Hurts OB - PHI |
+| B. Robinson - ATL    |    **RB**    |   J. Taylor RB - IND |
+| T. Pollard RB - TEN  |    **RB**    |    J. Jacobs RB - GB |
+| K. Allen WR - LAC    |    **WR**    |  G. Pickens WR - DAL |
+| D. Metcalf - PIT     |    **WR**    |    M. Golden WR - GB |
+| T. McBride - ARI     |    **TE**    |   D. Waller TE - MIA |
+| D. London - ATL      |   **WRT**    |    J. Mason RB - MIN |
+| T. Kraft TE - GB     |   **WRT**    |  N. Collins WR - HOU |
+| H. Butker K - KC     |    **K**     |   C. Boswell K - PIT |
+| PHI                  |   **DEF**    |                  SEA |
+| D. Prescott QB - DAL |  **BENCH**   |   I. Pacheco RB - KC |
+| W. Marks RB - HOU    |  **BENCH**   |  K. Coleman WR - BUF |
+| R. Pearsall WR - SF  |  **BENCH**   |    J. Meyers WR - LV |
+| R. Harvey RB - DEN   |  **BENCH**   | J. Williams WR - DET |
+| N. Chubb RB - HOU    |  **BENCH**   |    J. Downs WR - IND |
+| E. Egbuka WR - TB    |  **BENCH**   |   M. Taylor TE - NYJ |
 
 ## Pick ups and drops
 
