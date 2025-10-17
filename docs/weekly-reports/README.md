@@ -1,49 +1,50 @@
-# Week 6
+# Week 7
 
-## Week 5 Recap
+## Week 6 Recap
 
 ### The Busted Gazette
 
-Are my words not reaching the correct audience? Dak Prescott putting up 10 points more than our starting peepeepoopoo quarterback. Now I’m going to have to listen to Nedim make fun of me for the next week. PLUS I’m out in the survivor league AND I’m getting chopped from the other league. Not a great week for me.
+Wow week 6 went well with a scheduled W.
 
-Our team manager called this a “scheduled loss”, and to be fair it absolutely was, hopefully this week is a scheduled WIN because Colin Macphee has 4 injured players on his bench and Daddy needs to buy a running stroller .
+Big shout outs to our boys Dak (obviously bringing the heat weekly), Robinson (the #3 RB in the NFL), our TE Mr. McBride and our #2 pick in the season D.London who ALL scored above 20 points for us.
 
-I heard Arian is throwing a big party on the 25th and his hiring dealers to make it a Lac Leamy experience. Maybe we could even convince him to gamble away his players to us or accept a drunk trade 👀
+The other half of the team dropped the ball, but at least it wasn’t as bad as Mr. Ryan Smilovici’s team 👀
 
-Anyways I’m out of commission for surgery, but hopefully we can do a board game night soon. Love you guys. If I die on the operating table, just know that it was a pleasure being your friend. Take care of Rachel & Rowan, and please don’t let them spend my RRSP on anything besides glizzys & pickles for the ski hill.
+People are talking… is it time to switch out our kicker and defence? Both are #12 ranking in the season so far. Do we love an underdog or maybe we have some insider knowledge?? 🤔 who knows - as long as they keep putting up points, we can keep getting the big wins.
+
+Not to put any pressure, but we’re up against the biggest smack talker in the league- Arian Nabavi. Currently projected to win at 52% AND his weekly average points is 9 points ahead of us 😭 Whats the strat boys? Offer him another garbage trade? Go take out his players personally?! Maybe if I see him this week, I can sub out his starting line up?? Sounds like we need a miracle boys..
+
+In other football news, shout out to Ry for getting every single survivor pick correct so far!!! I could never.
 
 Love,
 
-Fresh Prince of Kanata
-
-Editors Note: Unlike our manager I not only picked up dak this week but i fielded him against Matt to show him his true power. W for me, how could he be so foolish.
+Fresh Prince of 1Knee
 
 ### Trades
 
-Just in we traded M. Carter for W. Marks, literaly a random pick up last week, hopefully we end up on top because we traded Mike and Leon; and we do not want to lose on a trade with them because we will never hear the end of it. Can't believe they didn't accept our offer of dak last week, it would have won the week of them, instead they lost (keep this in mind for chirping them).
-
-![week6trade](../images/week6trade.png ":class=image")
+None
 
 ## Rosters
 
-| **Shareholders**     | **Position** |     **Colin Macphee** |
-| :------------------- | :----------: | --------------------: |
-| D. Prescott QB - DAL |    **QB**    |       B. Nix QB - DEN |
-| B. Robinson - ATL    |    **RB**    |     C. Brown RB - CIN |
-| T. Pollard RB - TEN  |    **RB**    |  R. Stevenson RB - NE |
-| K. Allen WR - LAC    |    **WR**    |  E. Ayomanor WR - TEN |
-| D. Metcalf - PIT     |    **WR**    |     P. Nacua WR - LAR |
-| T. McBride - ARI     |    **TE**    |      T. Kelce TE - KC |
-| D. London - ATL      |   **WRT**    |     K. Pitts TE - ATL |
-| E. Egbuka WR - TB    |   **WRT**    |     D. Swift RB - CHI |
-| H. Butker K - KC     |    **K**     |      J. Bates K - DET |
-| PHI                  |   **DEF**    |                   IND |
-| J. Daniels - WAS     |  **BENCH**   |  J. McCarthy QB - MIN |
-| W. Marks RB - HOU    |  **BENCH**   |   C. Hubbard RB - CAR |
-| R. Pearsall WR - SF  |  **BENCH**   |     C. Godwin WR - TB |
-| R. Harvey RB - DEN   |  **BENCH**   |      C. Kirk WR - HOU |
-| N. Chubb RB - HOU    |  **BENCH**   |  T. McLaurin WR - WAS |
-| T. Kraft TE - GB     |  **BENCH**   | J. Jefferson WR - MIN |
+This week we face off against 5-1 Arian, a win here would be very sweet but his team looks pretty healthy so we're going to have to fight for this one.
+| **Shareholders** | **Position** | **Team ArianNabavi** |
+| :------------------- | :----------: | -------------------: |
+| J. Daniels QB - WAS | **QB** | J. Hurts OB - PHI |
+| B. Robinson - ATL | **RB** | J. Taylor RB - IND |
+| T. Pollard RB - TEN | **RB** | J. Jacobs RB - GB |
+| K. Allen WR - LAC | **WR** | G. Pickens WR - DAL |
+| D. Metcalf - PIT | **WR** | M. Golden WR - GB |
+| T. McBride - ARI | **TE** | D. Waller TE - MIA |
+| D. London - ATL | **WRT** | J. Mason RB - MIN |
+| T. Kraft TE - GB | **WRT** | N. Collins WR - HOU |
+| H. Butker K - KC | **K** | C. Boswell K - PIT |
+| PHI | **DEF** | SEA |
+| D. Prescott QB - DAL | **BENCH** | I. Pacheco RB - KC |
+| W. Marks RB - HOU | **BENCH** | K. Coleman WR - BUF |
+| R. Pearsall WR - SF | **BENCH** | J. Meyers WR - LV |
+| R. Harvey RB - DEN | **BENCH** | J. Williams WR - DET |
+| N. Chubb RB - HOU | **BENCH** | J. Downs WR - IND |
+| E. Egbuka WR - TB | **BENCH** | M. Taylor TE - NYJ |
 
 ## Pick ups and drops
 
@@ -51,22 +52,24 @@ None
 
 ## Injury report
 
-**Ricky Pearsall** Still out, won't be playing this sunday
+**Ricky Pearsall** No participation in practice so far so not looking good.
+
+**Emeka Egbuka** Injured last week, questionable to return but with no participation in practice so far this week it's not looking good, rest up king we'll need you back in 20 point form.
 
 ## Hate and Love Watch
 
 ### Love
 
-No thursday night players and just Bijan on Monday.
-
--   **Dak Prescott**: Finally after weeks of begging we finally are starting this legend, you're welcome Matt, i know you've been dying to see him perform for us.
--   **Bijan Robinson**: Coming off of a bye Bijan faces the bills monday night, hopefully the rest brings us some great performace.
--   **Emeka Egbuka**: He listened and put up 30 points last week, do it again Sunday at 4:35 against the whiners.
+-   **Jayden Daniels**: Back in our starting line up he is facing off against Dalas and our benched QB Dak Prescott, hopefully he outperforms him. Sunday 4:25 probably a fun watch to see which of our QBs is truely better.
+-   **Bijan Robinson**: 35 points last week, he is still one of our stars that merrit the eyes we put on him.
+-   **Drake London**: 31 points last week, another rock star, although his projected doesn't look crazy we hope he get plenty of targets this week agianst the 49ers prime time Sunday night.
 
 ### Hate
 
-Ryan's got a bunch of injuries, so we really just need to lock in on hatewatching Pookie, his one all star.
+Arian's made some trades so funny to anti sweat those but he also has a fair share of high projected players who are due for a bad week.
 
--   **Puka Nacua**: projected for 22 points we could use an underperformance, he hasn't yet scored under 22 points so surely he's due.
--   **Bo Nix**: Ryan's quarterback, projected low, hopefully he underperforms even lower.
--   **Jake Bates**: Running out of people to cheer against so let's pray his kicker misses some kicks or doesn't get the opportunity to score any long ones.
+-   **Jonathan Taylor**: projected for 20 points sunday 4:05 against the chargers, let's hope he doesn't get any long runs.
+-   **Josh Jacobs**: Two first names?! cannot be trusted, limited in practice thursday hope he feels better but maybe rest up this week. Trade from Mike and Leon, let's pray for an underperformace.
+-   **Nico Colins**: A third two first namer?! man arian's whole team can't be trusted, comming off a bye he was part of the devin trade so this will be a funny one if he underperforms.
+
+Overall if Josh and Nico do poorly we'll have plenty of amo to call Arian a bad manager.
