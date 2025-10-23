@@ -39,9 +39,9 @@ This week we face off against Toe Burrow, 2-5 Devin is projected slightly higher
 
 ## Pick ups and drops
 
-:heavy_plus_sign: N. Chubb RB - HOU
+:heavy_plus_sign: K. Monangai RB - CHI
 
-:heavy_minus_sign: K. Monangai RB - CHI
+:heavy_minus_sign: N. Chubb RB - HOU
 
 ## Injury report
 
