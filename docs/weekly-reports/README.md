@@ -18,24 +18,24 @@ None
 
 This week we face off against Toe Burrow, 2-5 Devin is projected slightly higher than us but as you all know add at least 5 points to Dak's projection.
 
-| **Shareholders**     | **Position** | **Team ArianNabavi** |
-| :------------------- | :----------: | -------------------: |
-| D. Prescott QB - DAL |    **QB**    |    D. Jones OB - IND |
-| B. Robinson RB - ATL |    **RB**    |     R. White RB - TB |
-| T. Pollard RB - TEN  |    **RB**    | C. Skattebo RB - NYG |
-| K. Allen WR - LAC    |    **WR**    |    J. Chase WR - CIN |
-| D. London WR - ATL   |    **WR**    |    D. Smith WR - PHI |
-| T. Kraft TE - GB     |    **TE**    |  D. Goedert TE - PHI |
-| D. Metcalf WR - PIT  |   **WRT**    |  M. Pittman WR - IND |
-| E. Egbuka WR - TB    |   **WRT**    | W. Robinson WR - NYG |
-| H. Butker K - KC     |    **K**     |    C. Dicker K - LAC |
-| PHI                  |   **DEF**    |                  DEN |
-| J. Daniels QB - WAS  |  **BENCH**   |    B. Irving RB - TB |
-| W. Marks RB - HOU    |  **BENCH**   |   J. Warren RB - PIT |
-| R. Pearsall WR - SF  |  **BENCH**   |    T. Tucker WR - LV |
-| R. Harvey RB - DEN   |  **BENCH**   |  T. Higgins WR - CIN |
-| K. Monangai RB - CHI |  **BENCH**   |  J. Jennings WR - SF |
-| T. McBride TE - ARI  |  **BENCH**   |     H. Henry TE - NE |
+| **Shareholders**         | **Position** |      **Team Toe Burrow** |
+| :----------------------- | :----------: | -----------------------: |
+| D. Prescott **QB** - DAL |    **QB**    |    D. Jones **OB** - IND |
+| B. Robinson **RB** - ATL |    **RB**    |     R. White **RB** - TB |
+| T. Pollard **RB** - TEN  |    **RB**    | C. Skattebo **RB** - NYG |
+| K. Allen **WR** - LAC    |    **WR**    |    J. Chase **WR** - CIN |
+| D. London **WR** - ATL   |    **WR**    |    D. Smith **WR** - PHI |
+| T. Kraft **TE** - GB     |    **TE**    |  D. Goedert **TE** - PHI |
+| D. Metcalf **WR** - PIT  |   **WRT**    |  M. Pittman **WR** - IND |
+| E. Egbuka **WR** - TB    |   **WRT**    | W. Robinson **WR** - NYG |
+| H. Butker **K** - KC     |    **K**     |    C. Dicker **K** - LAC |
+| PHI                      |   **DEF**    |                      DEN |
+| J. Daniels **QB** - WAS  |  **BENCH**   |    B. Irving **RB** - TB |
+| W. Marks **RB** - HOU    |  **BENCH**   |   J. Warren **RB** - PIT |
+| R. Pearsall **WR** - SF  |  **BENCH**   |    T. Tucker **WR** - LV |
+| R. Harvey **RB** - DEN   |  **BENCH**   |  T. Higgins **WR** - CIN |
+| K. Monangai **RB** - CHI |  **BENCH**   |  J. Jennings **WR** - SF |
+| T. McBride **TE** - ARI  |  **BENCH**   |     H. Henry **TE** - NE |
 
 ## Pick ups and drops
 
