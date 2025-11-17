@@ -1,72 +1,70 @@
-# Week 9
+# Week 11
 
-## Week 8 Recap
+## Week 10 Recap
 
 ### The Busted Gazette
 
-Devestating loss, we scored so low but at least we lost to Devin.
+I wait for a sound,
 
-Rough to score low because of this leagues 6th place playoff rule, our points scored is still higher than the bottom 4 so the tie breaker doesn't apply but we need to lock in and put up points even on weeks we lose.
+Anything will do.
 
-At least we didn't lose to a massive underperformace, Devin's team put up more points than our projection so even an average performance would likely have been a loss. Regardless we lock in for another week.
+It must be near bound,
+
+Waiting for a poo.
+
+Another night of me waiting for Rowan to poop. Another week that Julien also takes the shit (a loss) in his current 1-9 streak. I’d say that week was a 🔒. With a score of 147, I’d say our boys did amazing. Our TE McBride has climbed his way into first place TE! Along with our other two power house wide receivers catching receives than humanly possible.
+
+We’re against some random team next week who also has the exact same score as we do :0
+
+Although, they only scored 120 points last week so let’s keep putting our trust in the Burnett lineup 🙏
 
 ### Trades
 
-None
+NEED TO LOCK IN, WE CANNOT LOSE TO THE LEAGUE TRADE SPAMMERS.
 
 ## Rosters
 
-This week we face off against Mark, he's in australlia upside down, no way we lose to him, he's asleep when most of the games are on.
-
-| **Shareholders**         | **Position** |                  **Mark** |
-| :----------------------- | :----------: | ------------------------: |
-| D. Prescott **QB** - DAL |    **QB**    |    K. Murray **QB** - ARI |
-| B. Robinson **RB** - ATL |    **RB**    |  K. Williams **RB** - LAR |
-| W. Marks **RB** - HOU    |    **RB**    |     K. Vidal **RB** - LAC |
-| K. Allen **WR** - LAC    |    **WR**    | A. St. Brown **WR** - DET |
-| D. Metcalf **WR** - PIT  |    **WR**    |      S. Diggs **WR** - NE |
-| T. Kraft **TE** - GB     |    **TE**    |    T. Warren **TE** - IND |
-| D. London **WR** - ATL   |   **WRT**    |     T. Tracy **RB** - NYG |
-| T. McBride **TE** - ARI  |   **WRT**    |    B. Thomas **WR** - JAX |
-| H. Butker **K** - KC     |    **K**     |    M. Badgley **K** - IND |
-| LAR                      |   **DEF**    |                        NE |
-| J. Daniels **QB** - WAS  |  **BENCH**   |     X. Worthy **WR** - KC |
-| PHI                      |  **BENCH**   |      J. Dart **QB** - NYG |
-| R. Pearsall **WR** - SF  |  **BENCH**   |  T. Henderson **RB** - NE |
-| R. Harvey **RB** - DEN   |  **BENCH**   |      B. Hall **RB** - NYJ |
-| E. Egbuka **WR** - TB    |  **BENCH**   |  Q. Johnston **WR** - LAC |
-| K. Monangai **RB** - CHI |  **BENCH**   |   J. Addison **WR** - MIN |
+| **Shareholders**         | **Position** |            **CMCeeYouLater** |
+| :----------------------- | :----------: | ---------------------------: |
+| D. Prescott **QB** - DAL |    **QB**    |          D. Maye **QB** - NE |
+| B. Robinson **RB** - ATL |    **RB**    |      Q. Judkins **RB** - CLE |
+| W. Marks **RB** - HOU    |    **RB**    |       R. Dowdle **RB** - CAR |
+| K. Allen **WR** - LAC    |    **WR**    | J. Smith-Njigba **WR** - SEA |
+| D. Metcalf **WR** - PIT  |    **WR**    |          R. Rice **WR** - KC |
+| T. Kraft **TE** - GB     |    **TE**    |        B. Bowers **TE** - LV |
+| D. London **WR** - ATL   |   **WRT**    |         C. Lamb **WR** - DAL |
+| T. McBride **TE** - ARI  |   **WRT**    |        A. Brown **WR** - PHI |
+| H. Butker **K** - KC     |    **K**     |        E. Pineiro **K** - SF |
+| LAR                      |   **DEF**    |                          DAL |
+| J. Daniels **QB** - WAS  |  **BENCH**   |        B. Tuten **RB** - JAX |
+| PHI                      |  **BENCH**   |     T. McMillan **WR** - CAR |
+| R. Pearsall **WR** - SF  |  **BENCH**   |         M. Evans **WR** - TB |
+| R. Harvey **RB** - DEN   |  **BENCH**   |         B. Aiyuk **WR** - SF |
+| E. Egbuka **WR** - TB    |  **BENCH**   |       H. Fannin **TE** - CLE |
+| K. Monangai **RB** - CHI |  **BENCH**   |                          SEA |
 
 ## Pick ups and drops
 
-With the eagles on bye we needed to free up some room for another defence.
+Trust in Kansas 🙏
 
-:heavy_plus_sign: LAR
+:heavy_plus_sign: KC
 
-:heavy_minus_sign: T. Pollard **RB** - TEN
+:heavy_minus_sign: CLE
 
 ## Injury report
 
-**Ricky Pearsall** Ruled out for week 9, kind of annoying but homefully he heals up to 100 and when he comes back he is right back to high performance.
-
-**Emeka Egbuka** Marked as healthy and played last week but underperformed and is on bye this week, hopefully he rests up for next week.
-
-**Jayden Daniels** Named as this weeks starter and with dak's poor performace last week we might be forced to field him.
+**Ricky Pearsall** Ruled out for week 11, didn't even travel with the team, not looking good for the imediate future.
 
 ## Hate and Love Watch
 
 ### Love
 
-Two games to watch: Atlanta at 1pm Sunday, we have Drake and Bijon playing for Atlanta and Sunday 8:20 pm for Dak.
+Being posted so late we only have one option to cheer on our GOAT 🐐 DAK PRESCOTT!
 
--   **Drake London**: Sunday 1pm let's hope all he does is win.
--   **Bijan Robinson**: Poor performace last week hopefully he can lock in and get back into highscore form.
--   **Keenan Allen**: Matt didn't field him last week and he still did poorly, must have been a fluke anyways let's hope he stays benched over there.
+-   **DAK PRESCOTT**: BRING IT HOME KING.
 
 ### Hate
 
--   **Kyler Murray**: Mark's qb plays against dallas this week so hopefully Dak destroys this match up Sunday prime time.
--   **Kyler Murphey**: Another Kyler? seems fair that if you hear the name Kyler this weekend it's fair to pray for a drop or something, Sunday 4pm.
--   **Amon-Ra St. Brown**: Off of a bye week hopefully he underperforms against Colin's Vikings Sunday 1pm.
-
-Wrapping it up Mark is someone below us so winning here helps solidify our playoff position.
+-   **CeeDee Lamb**: Coming off break please don't be rested and go back to underperforming, i don't need the point in my other league.
+-   **Brock Bowers**: probably would have never made it onto out hate watch list but this report is so late he's one of 3 remaining players so please underperform
+-   **Dallas**: Okay if ceedee is going to put up points please be because the dallas defence is doing extreamly poorly
