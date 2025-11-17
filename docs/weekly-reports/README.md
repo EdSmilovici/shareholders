@@ -29,18 +29,18 @@ NEED TO LOCK IN, WE CANNOT LOSE TO THE LEAGUE TRADE SPAMMERS.
 | D. Prescott **QB** - DAL |    **QB**    |          D. Maye **QB** - NE |
 | B. Robinson **RB** - ATL |    **RB**    |      Q. Judkins **RB** - CLE |
 | W. Marks **RB** - HOU    |    **RB**    |       R. Dowdle **RB** - CAR |
-| K. Allen **WR** - LAC    |    **WR**    | J. Smith-Njigba **WR** - SEA |
-| D. Metcalf **WR** - PIT  |    **WR**    |          R. Rice **WR** - KC |
-| T. Kraft **TE** - GB     |    **TE**    |        B. Bowers **TE** - LV |
-| D. London **WR** - ATL   |   **WRT**    |         C. Lamb **WR** - DAL |
-| T. McBride **TE** - ARI  |   **WRT**    |        A. Brown **WR** - PHI |
-| H. Butker **K** - KC     |    **K**     |        E. Pineiro **K** - SF |
-| LAR                      |   **DEF**    |                          DAL |
+| D. London **WR** - ATL   |    **WR**    | J. Smith-Njigba **WR** - SEA |
+| E. Egbuka **WR** - TB    |    **WR**    |          R. Rice **WR** - KC |
+| T. McBride **TE** - ARI  |    **TE**    |        B. Bowers **TE** - LV |
+| D. Metcalf **WR** - PIT  |   **WRT**    |         C. Lamb **WR** - DAL |
+| R. Harvey **RB** - DEN   |   **WRT**    |        A. Brown **WR** - PHI |
+| J. Bates **K** - DET     |    **K**     |        E. Pineiro **K** - SF |
+| KC                       |   **DEF**    |                          DAL |
 | J. Daniels **QB** - WAS  |  **BENCH**   |        B. Tuten **RB** - JAX |
-| PHI                      |  **BENCH**   |     T. McMillan **WR** - CAR |
+| K. Allen **WR** - LAC    |  **BENCH**   |     T. McMillan **WR** - CAR |
 | R. Pearsall **WR** - SF  |  **BENCH**   |         M. Evans **WR** - TB |
-| R. Harvey **RB** - DEN   |  **BENCH**   |         B. Aiyuk **WR** - SF |
-| E. Egbuka **WR** - TB    |  **BENCH**   |       H. Fannin **TE** - CLE |
+| J. Goff **QB** - DET     |  **BENCH**   |         B. Aiyuk **WR** - SF |
+| PHI                      |  **BENCH**   |       H. Fannin **TE** - CLE |
 | K. Monangai **RB** - CHI |  **BENCH**   |                          SEA |
 
 ## Pick ups and drops
