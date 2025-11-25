@@ -1,33 +1,14 @@
-# Week 12
+# Week 13
 
-## Week 11 Recap
+## Week 12 Recap
 
 ### The Busted Gazette
 
-I sit here hoping sleep will find me soon,
+Tough loss to the league number 1.
 
-Rowan’s legs are flailing, restless in the night.
+Mike and Leon are now going to have the same record as us but likely just a few fewer points scored so we should edge them out of the tie breaker.
 
-Just like our rivals chasing after the moon,
-
-They hope for breaks that never come to light.
-
-Writing this early since I’m at Home Hardware all weekend because drama went down. My boss’s majority shareholder partner has been suspicious of all the inventory that my boss was hiding and funnelling through the company, so he ordered an inventory count. To paint a picture, my boss had a 6 month heads up this was happening and has been cleaning up accounting records since then. Day 1 of the count on Saturday and we already found $125k of inventory that got sent to his house lol.
-
-Anyways though, back to FOOTBALL. We’re up against Michael Dettorre, and his team is looking stacked. Shout out to his TE for putting up 1.8 points. If we can win this AND Arian loses this week too, we will have a great shot at winning this league. Keep up the great line ups Ryland. Dak Prescott isn’t starting BUT that’s ok, we cant depend on him every week. Honestly our whole bench is on a bye week or on their way to the hospital for recovery. Let’s pray no more of our guys get injured lol.
-
-We got 6 more weeks, let’s push it for that W!!!!
-
-**Sunday 10:02 AM** Update: came into HH this morning and 4900 items weren’t counted. Weren’t counted, or weren’t there to count? 👀
-
-**Sunday 3:02 AM** Update: my boss’s partner was so worried that he sent his own inventory guy down on Saturday and now he’s staying around until Tuesday to see this through. His name is Pierre and he only speaks French. My boss does not speak French.
-
-**Sunday 3:03 AM** Update: my boss (a non smoker) went for a  smoke break to deal with this stress
-
-**Sunday 5:48 AM** Update: guys you won’t be believe this. While my boss was on a smoke break, Pierre came to me in secret and wanted me to pull reports to send directly to him without my boss’s knowledge.
-AFTER my boss returns, he comes to me and says “don’t send Pierre fuck all without talking to me first”
-
-The war for Colin’s loyalty has begun
+Two teams will be one win fewer than us so we really need to lock in at least one more win in the last two matches to have a good chance at playoffs and if we win out we're a lock for playoffs.
 
 ### Trades
 
@@ -35,48 +16,47 @@ None
 
 ## Rosters
 
-| **Shareholders**         | **Position** |        **CMCeeYouLater** |
+| **Shareholders**         | **Position** |                 **Nino** |
 | :----------------------- | :----------: | -----------------------: |
-| J. Goff **QB** - DET     |    **QB**    |   P. Mahomes **QB** - KC |
-| B. Robinson **RB** - ATL |    **RB**    |    J. Gibbs **RB** - DET |
-| W. Marks **RB** - HOU    |    **RB**    |   K. Walker **RB** - SEA |
-| M. Wilson **WR** - ARI   |    **WR**    |    D. Adams **WR** - LAR |
-| D. Metcalf **WR** - PIT  |    **WR**    |   R. Odunze **WR** - CHI |
-| T. McBride **TE** - ARI  |    **TE**    |  D. Schultz **TE** - HOU |
-| R. Pearsall **WR** - SF  |   **WRT**    |    X. Worthy **WR** - KC |
-| E. Egbuka **WR** - TB    |   **WRT**    | K. Gainwell **RB** - PIT |
-| J. Bates **K** - DET     |    **K**     |      J. Myers **K**- SEA |
-| PHI                      |   **DEF**    |                      DET |
-| J. Daniels **QB** - WAS  |  **BENCH**   |  J. Herbert **OB** - LAC |
-| K. Allen **WR** - LAC    |  **BENCH**   |   D. Achane **RB** - MIA |
-| R. Harvey **RB** - DEN   |  **BENCH**   | L. McConkey **WR** - LAC |
-| D. Prescott **QB** - DAL |  **BENCH**   |   C. Sutton **WR** - DEN |
-| D. London **WR** - ATL   |  **BENCH**   |  O. Gadsden **TE** - LAC |
-| K. Monangai **RB** - CHI |  **BENCH**   |                       SF |
+| J. Goff **QB** - DET     |    **QB**    |  L. Jackson **QB** - BAL |
+| B. Robinson **RB** - ATL |    **RB**    | C. McCaffrey **RB** - SF |
+| W. Marks **RB** - HOU    |    **RB**    |     J. Cook **RB** - BUF |
+| M. Wilson **WR** - ARI   |    **WR**    |    C. Watson **WR** - GB |
+| D. Metcalf **WR** - PIT  |    **WR**    |   K. Shakir **WR** - BUF |
+| T. McBride **TE** - ARI  |    **TE**    | J. Ferguson **TE** - DAL |
+| R. Pearsall **WR** - SF  |   **WRT**    | J. Williams **RB** - DAL |
+| E. Egbuka **WR** - TB    |   **WRT**    | T. Franklin **WR** - DEN |
+| J. Bates **K** - DET     |    **K**     |    C. Santos **K** - CHI |
+| PHI                      |   **DEF**    |                      BAL |
+| J. Daniels **QB** - WAS  |  **BENCH**   |    A. Kamara **RB** - NO |
+| K. Allen **WR** - LAC    |  **BENCH**   |    D. Moore **WR** - CHI |
+| R. Harvey **RB** - DEN   |  **BENCH**   |   D. Samuel **WR** - WAS |
+| D. Prescott **QB** - DAL |  **BENCH**   |  M. Andrews **TE** - BAL |
+| D. London **WR** - ATL   |  **BENCH**   |                      BUF |
+| K. Monangai **RB** - CHI |  **BENCH**   |                       TB |
 
 ## Pick ups and drops
 
-thanks for the week kansas but we only need one defence ✌️
-
-:heavy_plus_sign: Michael Wilson
-
-:heavy_minus_sign: KC
-
 ## Injury report
 
-**Jayden Daniels** Rough but he's somehow still hurt, hope to get him back in time for the playoffs at this rate
+**Jayden Daniels** i'm publishing this early so i really hope he's feeling better
 
-**Drake London** out this week but it sounds like an over precaution, hopefully he's back to perfect next week
+**Drake London** same
 
 ## Hate and Love Watch
 
 ### Love
 
-Late report again so we're left with who's left
+Early report so maybe the active line up changes up but for now this is the list
 
--   **Egbuka**: GET IT KING SUNDAY PRIME TIME WE'RE GOING TO NEED A LOT.
--   **Pearsall**: Monday night we'll probably have a chunk of points we need so lock in!
+-   **Daddy Dak**: I see he's currently in our active line up, after his great performace last week, let's see a repeat. Sunday 4:30 vs KC
+-   **Bijan Robinson**: matched up against the Jets?! should be an easy point night, i actually have no clue how good the jets are doing this year but it usually safe to say they suck. Sunday 1pm @ NYJ
+-   **Trey McBride**: projected for 18 let's see our star tight end put up some points Sunday 1pm at tampa bay.
 
 ### Hate
 
--   **Davante Adams**: Sunday prime time, expected 15 points but we really need a zero to have a chance.
+Early report so his lineup could change but after losing to Rexxy we can not lose to his dad Nino. Sorry
+
+-   **Lamar Jackson**: Thursday night at Cincinnati, their record is poor but we need to lock in a low scoring game, hopefully lamar doesn't run as much as he usually does.
+-   **McCaffrey**: sunday 1pm in cleveland, hate to wish injury on anyone but hopefully his calf temporarely bothers him this weekend and he's limited.
+-   **James Cook**: back to back 20 point weeks surely he's due for an underperformace sunday 4:25 in pittsburgh.
