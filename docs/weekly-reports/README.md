@@ -4,11 +4,11 @@
 
 ### The Busted Gazette
 
-Tough loss to the league number 1.
+Sorry Nino but we needed that win, after a great performace by Dak Prescot we breezed into a clinched playoff spot. Other shout outs go to Bijan, McBride and RJ Harvey for our win.
 
-Mike and Leon are now going to have the same record as us but likely just a few fewer points scored so we should edge them out of the tie breaker.
+Facing off against Nedim this week he is likely our round 1 playoff match up as awell so we need to lock in against him. The only scenario where we don't face him is if we win this week and Mike and Leon lose, in which case we face off against Nino again.
 
-Two teams will be one win fewer than us so we really need to lock in at least one more win in the last two matches to have a good chance at playoffs and if we win out we're a lock for playoffs.
+Overall a chill week for us as i'm not exactly sure who i'd rather face off in the playoffs
 
 ### Trades
 
@@ -16,26 +16,30 @@ None
 
 ## Rosters
 
-| **Shareholders**         | **Position** |                 **Nino** |
-| :----------------------- | :----------: | -----------------------: |
-| J. Goff **QB** - DET     |    **QB**    |  L. Jackson **QB** - BAL |
-| B. Robinson **RB** - ATL |    **RB**    | C. McCaffrey **RB** - SF |
-| W. Marks **RB** - HOU    |    **RB**    |     J. Cook **RB** - BUF |
-| M. Wilson **WR** - ARI   |    **WR**    |    C. Watson **WR** - GB |
-| D. Metcalf **WR** - PIT  |    **WR**    |   K. Shakir **WR** - BUF |
-| T. McBride **TE** - ARI  |    **TE**    | J. Ferguson **TE** - DAL |
-| R. Pearsall **WR** - SF  |   **WRT**    | J. Williams **RB** - DAL |
-| E. Egbuka **WR** - TB    |   **WRT**    | T. Franklin **WR** - DEN |
-| J. Bates **K** - DET     |    **K**     |    C. Santos **K** - CHI |
-| PHI                      |   **DEF**    |                      BAL |
-| J. Daniels **QB** - WAS  |  **BENCH**   |    A. Kamara **RB** - NO |
-| K. Allen **WR** - LAC    |  **BENCH**   |    D. Moore **WR** - CHI |
-| R. Harvey **RB** - DEN   |  **BENCH**   |   D. Samuel **WR** - WAS |
-| D. Prescott **QB** - DAL |  **BENCH**   |  M. Andrews **TE** - BAL |
-| D. London **WR** - ATL   |  **BENCH**   |                      BUF |
-| K. Monangai **RB** - CHI |  **BENCH**   |                       TB |
+| **Shareholders**         | **Position** |                     **🦅** |
+| :----------------------- | :----------: | -------------------------: |
+| D. Prescott **QB** - DAL |    **QB**    |    B. Mayfield **QB** - TB |
+| B. Robinson **RB** - ATL |    **RB**    |      D. Henry **RB** - BAL |
+| R. Harvey **RB** - DEN   |    **RB**    |      A. Jeanty **RB** - LV |
+| D. Metcalf **WR** - PIT  |    **WR**    |      C. Godwin **WR** - TB |
+| E. Egbuka **WR** - TB    |    **WR**    |    Z. Flowers **WR** - BAL |
+| T. McBride **TE** - ARI  |    **TE**    |     J. Johnson **TE** - NO |
+| W. Marks **RB** - HOU    |   **WRT**    |    T. Etienne **RB** - JAX |
+| M. Wilson **WR** - ARI   |   **WRT**    |     J. Waddle **WR** - MIA |
+| J. Bates **K** - DET     |    **K**     |      B. Aubrev **K** - DAL |
+| PHI                      |   **DEF**    |                         GB |
+| J. Daniels **QB** - WAS  |  **BENCH**   |        D. Neal **RB** - NO |
+| K. Allen **WR** - LAC    |  **BENCH**   |    T. Pollard **RB** - TEN |
+| K. Boutte **WR** - NE    |  **BENCH**   |   T. Allgeier **RB** - ATL |
+| NO                       |  **BENCH**   |       R. Doubs **WR** - GB |
+| D. London **WR** - ATL   |  **BENCH**   | P. Washington **WR** - JAX |
+| K. Monangai **RB** - CHI |  **BENCH**   |    D. Kincaid **TE** - BUF |
 
 ## Pick ups and drops
+
+➖ R. Pearsall **WR** - SF
+
+➕ K. Boutte **WR** - NE
 
 ## Injury report
 
