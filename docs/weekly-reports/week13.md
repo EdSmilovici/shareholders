@@ -8,6 +8,8 @@ Tough loss to the league number 1.
 
 Mike and Leon are now going to have the same record as us but likely just a few fewer points scored so we should edge them out of the tie breaker.
 
+I was wrong they're beating us out on tie break but leon's in hawaii for the week so hopefully he slips up this week.
+
 Two teams will be one win fewer than us so we really need to lock in at least one more win in the last two matches to have a good chance at playoffs and if we win out we're a lock for playoffs.
 
 ### Trades
