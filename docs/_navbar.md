@@ -1,5 +1,6 @@
 -   Weekly Reports
-    -   [Current Week - Quarterfinals](/weekly-reports/)
+    -   [Current Week - Semifinals](/weekly-reports/)
+    -   [Week 15 - Quarterfinals](/weekly-reports/week15)
     -   [Week 14](/weekly-reports/week14)
     -   [Week 13](/weekly-reports/week13)
     -   [Week 12](/weekly-reports/week12)

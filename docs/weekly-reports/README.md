@@ -1,12 +1,12 @@
-# Week 14 - Quarterfinals
+# Week 16 - Semiu=finals
 
-## Week 13 Recap
+## Week 15 Recap
 
 ### The Busted Gazette
 
-Wow what a rest week, we put up a lot of points and fielded a neat perfect roster, short by 2ish points. Just need a repeat this week against nedim again to make it to the semifinals of playoffs.
+Quite the nail biter last weeks matchup was up in the air until monday night with 1 player on oposite teams playing. Although we went into it ahead anything was possible. Fortunately DK Metcalf put up points late monday and even if the game was stressfull we cheered quite loud for what was a blow out game when DK scored.
 
-In other league news Nino was in fact not safe and devin edged him out of the playoffs with a monday night kicker puting up 20ish points to beat him out by less than a point. If he was mad that lamar jackson only put up single digit points when he faced us, i can only image how angry this made him. Cherry on top? he handed Julien his second win of the season.
+This week we face off against King Rexxcy, we're going to need a little luck but this should be a good matchup.
 
 ### Trades
 
@@ -14,57 +14,59 @@ None
 
 ## Rosters
 
-| **Shareholders**          | **Position** |                     **🦅** |
-| :------------------------ | :----------: | -------------------------: |
-| D. Prescott **QB** - DAL  |    **QB**    |   T. Lawrence **QB** - JAX |
-| B. Robinson **RB** - ATL  |    **RB**    |      D. Henry **RB** - BAL |
-| W. Marks **RB** - HOU     |    **RB**    |      A. Jeanty **RB** - LV |
-| M. Wilson **WR** - ARI    |    **WR**    |      C. Godwin **WR** - TB |
-| E. Egbuka **WR** - TB     |    **WR**    |    Z. Flowers **WR** - BAL |
-| T. McBride **TE** - ARI   |    **TE**    |     J. Johnson **TE** - NO |
-| R. Harvey **RB** - DEN    |   **WRT**    |    T. Etienne **RB** - JAX |
-| D. Metcalf **WR** - PIT   |   **WRT**    |     J. Waddle **WR** - MIA |
-| J. Bates **K** - DET      |    **K**     |      B. Aubrev **K** - DAL |
-| PHI                       |   **DEF**    |                         GB |
-| J. Daniels **QB** - WAS   |  **BENCH**   |        D. Neal **RB** - NO |
-| K. Allen **WR** - LAC     |  **BENCH**   |    T. Pollard **RB** - TEN |
-| C. Rodriguez **RB** - WAS |  **BENCH**   |   T. Allgeier **RB** - ATL |
-| NO                        |  **BENCH**   |       R. Doubs **WR** - GB |
-| D. London **WR** - ATL    |  **BENCH**   | P. Washington **WR** - JAX |
-| K. Monangai **RB** - CHI  |  **BENCH**   |    D. Kincaid **TE** - BUF |
+| **Shareholders**         | **Position** |          **King Rexxcy** |
+| :----------------------- | :----------: | -----------------------: |
+| D. Prescott **QB** - DAL |    **QB**    |  J. Herbert **OB** - LAC |
+| B. Robinson **RB** - ATL |    **RB**    |    J. Gibbs **RB** - DET |
+| R. Harvey **RB** - DEN   |    **RB**    |   D. Achane **RB** - MIA |
+| M. Wilson **WR** - ARI   |    **WR**    | L. McConkey **WR** - LAC |
+| D. London **WR** - ATL   |    **WR**    |   C. Sutton **WR** - DEN |
+| T. McBride **TE** - ARI  |    **TE**    |  O. Gadsden **TE** - LAC |
+| W. Marks **RB** - HOU    |   **WRT**    |   K. Walker **RB** - SEA |
+| D. Metcalf **WR** - PIT  |   **WRT**    |    X. Worthy **WR** - KC |
+| J. Bates **K** - DET     |    **K**     |     J. Myers **K** - SEA |
+| PHI                      |   **DEF**    |                      HOU |
+| A. Estime **RB** - NO    |  **BENCH**   |  B. Mayfield **QB** - TB |
+| K. Allen **WR** - LAC    |  **BENCH**   |   R. Odunze **WR** - CHI |
+| M. Carter **RB** - ARI   |  **BENCH**   |   L. Burden **WR** - CHI |
+| J. Reed **WR** - TB      |  **BENCH**   |    D. Adams **WR** - LAR |
+| E. Egbuka **WR** - TB    |  **BENCH**   |     H. Henry **TE** - NE |
+| NO                       |  **BENCH**   |                      DET |
 
 ## Pick ups and drops
 
-➖ K. Boutte **WR** - NE
+➖ J. Daniels **QB** - WAS
 
-➕ C. Rodriguez **RB** - WAS
+➖ C. Rodriguez **RB** - WAS
+
+➖ K. Monangai **RB** - CHI
+
+➕ A. Estime **RB** - NO
+
+➕ M. Carter **RB** - ARI
+
+➕ J. Reed **WR** - TB
 
 ## Injury report
 
-**Jayden Daniels** still injured at this point we might just be locked into dak and if we need to drop to pick up it might be him
+Both Questionable:
 
-**Drake London** out again, probably less likely to come back then Daniels but a bit more flexible in where we can put him, also for drop consideration as the season comes to an end
+**Woody Marks** Limited in practice, expected to play this week.
+
+**Drake London** Expected to play this week.
 
 ## Hate and Love Watch
 
 ### Love
 
-Late report so Bijan already put points up so love to him but nothing to watch
-
--   **Trey McBride**: Sunday 1pm facing off in houston let's hoppe for him to be the highest scoring TE this week (can't belive pits did me so dirty)
--   **Dak Prescott**: great performance last week, playing the sunday prime time game at 8:25pm against colins beloved vikings, please give us the blessing to cook Colin
--   **DK Metcalf**: idk fun name monday prime time at 8:20pm vs Miami let's hope it's cold and the dolphins freeze up against him
+-   **Bijon Robinson**: Sunday 4pm in Arizona let's cheer on our highest projected player to put up a record week.
+-   **Dak Prescott**: Sunday 1pm LETS GO DAK SHOW US THAT MARGIC.
+-   **Trevor McBride**: Sunday 4pm facing off against Bijon, we can just lock in and hope for a high scoring game.
 
 ### Hate
 
-Hating is back on the table boys starting with a bit of a random one:
+-   **Justing Herbert**: QB Faceoff he's playing against dak at 1pm on sunday, GO COWBOYS GO, today we pray for a cowboy blowout offence and defence
+-   **Jahmyr Gibbs**: Sunday 4pm projected 25 we could really use an underperformace and there's plenty of room
+-   **De'Von Achane**: Sunday 1pm projected 19 we're rooting against him versus the bengals.
 
--   **Las Vegas**: their offence faces off against out defence, fly birds fly, lets hope they do poorly and the eagles defence eats
-
-Now for nedim's players:
-
--   **Trevor Lawrence**: Sunday 1pm he's been on of the biggest busts of a quarterback and lets hope he lives up to this this week.
--   **Derak Hendry**: Sunday 1pm a great running back we praying doesn't run much this week.
--   **Zay Flowers**: Sunday 1pm at the bengals, pray for low targets.
-
-overall we need to lock in hate for 1pm sunday, a lot of the week will be determined for nedim then
+Overall we're positioned for the finals with some good pick ups, just need to make it through this week and we win.
